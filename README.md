@@ -50,9 +50,6 @@ print(result)
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Acknowledgments
 
