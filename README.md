@@ -3,7 +3,7 @@
 ```markdown
 # Automatic Number Plate Recognition (ANPR) using Deep Learning
 
-![ANPR Demo](link-to-anpr-demo.gif)
+
 
 Welcome to the Automatic Number Plate Recognition (ANPR) project! This repository contains a powerful and efficient ANPR system that utilizes Deep Learning and image processing techniques to detect and recognize license plates from images.
 
@@ -14,17 +14,14 @@ Welcome to the Automatic Number Plate Recognition (ANPR) project! This repositor
 - Easy-to-use codebase for license plate detection and recognition.
 - Pre-trained model weights included (object_detection.h5).
 
-## Demo
-
-[View Demo](link-to-live-demo) to see the ANPR system in action.
 
 ## Getting Started
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ANPR-Project.git
-   cd ANPR-Project
+   git clone https://github.com/relaico/ANPR.git
+   cd ANPR
    ```
 
 2. **Install Dependencies**
@@ -64,7 +61,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ## Contact
 
-If you have any questions or suggestions, feel free to [contact us](mailto:youremail@example.com).
+If you have any questions or suggestions, feel free to [contact us](mailto:info@relaico.com).
 
 ## Support
 
