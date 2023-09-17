@@ -15,36 +15,7 @@ Welcome to the Automatic Number Plate Recognition (ANPR) project! This repositor
 - Pre-trained model weights included (object_detection.h5).
 
 
-## Getting Started
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/relaico/ANPR.git
-   cd ANPR
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run ANPR**
-
-   - Use `ANPR.ipynb` in Jupyter Notebook for interactive usage.
-   - Use `python main.py --input path/to/your/image.jpg` for command-line usage.
-
-4. **Enjoy Automatic Number Plate Recognition!**
-
-## Example Usage
-
-```python
-from anpr import ANPR
-anpr = ANPR()
-result = anpr.recognize_plate('path/to/your/image.jpg')
-print(result)
-```
 
 ## License
 
@@ -64,9 +35,3 @@ If you have any questions or suggestions, feel free to [contact us](mailto:info@
 
 ---
 
-Let's make the world a smarter place with Automated Number Plate Recognition!
-
-![ANPR](link-to-anpr-logo.png)
-```
-
-Replace the placeholders (e.g., `link-to-anpr-demo.gif`, `link-to-live-demo`, `yourusername`, `path/to/your/image.jpg`, etc.) with actual links, paths, and information relevant to your project. Customize the README to match your project's branding and style. Adding visual elements like GIFs, screenshots, and logos can make it more attractive to users.
