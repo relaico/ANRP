@@ -1,4 +1,4 @@
-Creating an attractive and informative README.md file is essential for showcasing your Automatic Number Plate Recognition (ANPR) project on GitHub. A well-structured README can attract users, explain your project, and provide clear instructions on how to use it. Below is a creative and attractive README.md template for your ANPR project:
+
 
 ```markdown
 # Automatic Number Plate Recognition (ANPR) using Deep Learning
