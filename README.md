@@ -61,11 +61,9 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ## Contact
 
-If you have any questions or suggestions, feel free to [contact us](mailto:info@relaico.com).
+If you have any questions or suggestions, feel free to [contact us](mailto:info@relaico.com) or visit our [website](https://relaico.com).
 
-## Support
 
-If you find this project helpful, consider [buying us a coffee](link-to-donate-page) to support further development.
 
 ---
 
